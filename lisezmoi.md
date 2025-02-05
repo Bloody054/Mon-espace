@@ -19,4 +19,4 @@ Cette actvité doit permettre de découvrir le fonctionnement de :
 
 - `js` : répertoire contenent le code javascript 
 - `css` : répertoire contenant la feuille de style du projet 
-- `asset` : répertoire contenant les fichiers images, son et xml git add .
+- `asset` : répertoire contenant les fichiers images, son et xml
