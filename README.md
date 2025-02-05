@@ -1,6 +1,7 @@
 # Projet Pegi 
 Le projet PEGI est une application web permettant de classer des jeux vidéos selon la classification. 
 Il permet de tester le fonctionnement de **git**
+test
 
 ## Objectifs
 Cette activité doit permettre de réviser : 
